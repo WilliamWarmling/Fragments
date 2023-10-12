@@ -176,6 +176,5 @@ public class primeiro extends Fragment {
             minF = 0;
             Toast.makeText(getContext(), "Preencha corretamente todos os campos! (Rendeu um fandangos)", Toast.LENGTH_SHORT).show();
         }
-
     }
 }
